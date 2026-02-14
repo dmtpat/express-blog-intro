@@ -8,7 +8,7 @@ const posts = [
     {
         titolo: "pippo",
         contenuto: "lorem ipsum",
-        image: "http://localhost:3000/image1.jpg"
+        image: "/image1.jpg"
     },
     {
         titolo: "mario",
