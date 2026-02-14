@@ -1,0 +1,15 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "Creiamo il nostro blog personale e giorno dopo giorno lo potremo arricchire con nuove funzionalità",
+  "license": "ISC",
+  "author": "PatPat",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "Express": "^3.0.1"
+  }
+}
